@@ -8,8 +8,7 @@ creating elegant backends for website administration.
 [![Coverage][coverage_badge]][coverage]
 [![Tidelift][tidelift_badge]][tidelift]
 
-## Goals
-
+## a
 * Enable developers to quickly create good-looking administration interfaces.
 * Build a DSL for developers and an interface for businesses.
 * Ensure that developers can easily customize every nook and cranny.
